@@ -3,6 +3,10 @@
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
+<div style="background-color: blue; width: 300px; height: 200px; ">
+
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+</div>
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
